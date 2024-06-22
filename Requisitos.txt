@@ -1,0 +1,18 @@
+CONTEXTO: AGÊNCIA DE ALUGUEL DE CARROS
+
+REQUISITOS: 
+
+O sistema deve permitir que os clientes visualizem a disponibilidade de carros por datas específicas antes de efetuarem a reserva.
+O sistema deve exigir a verificação da carteira de motorista do cliente antes de confirmar a reserva.
+O sistema deve enviar lembretes de devolução aos clientes antes da data prevista de retorno do veículo.
+O sistema deve calcular automaticamente o valor total do aluguel com base na duração e no modelo do carro escolhido.
+O sistema deve manter um registro de manutenção de cada veículo, incluindo datas de serviço e quilometragem.
+O sistema deve permitir que os clientes classifiquem e forneçam feedback sobre a experiência de aluguel.
+O sistema deve oferecer opções de seguro e cobrança de danos para os clientes durante o processo de reserva.
+O sistema deve gerar contratos de aluguel detalhados para cada transação, incluindo termos e condições específicos.
+O sistema deve fornecer uma interface amigável para a equipe da agência gerenciar reservas, devoluções e pagamentos.
+O sistema deve garantir a segurança dos dados dos clientes, incluindo informações pessoais e detalhes de pagamento.
+O sistema deve impedir a reserva de um carro que já esteja reservado para o mesmo período por outro cliente.
+O sistema deve permitir que os clientes cancelem ou modifiquem suas reservas dentro de um período definido antes da data de início do aluguel.
+O sistema deve integrar-se com vários métodos de pagamento, incluindo cartões de crédito, débito, e serviços de pagamento online, para facilitar as transações dos clientes.
+O sistema deve permitir a integração com dispositivos de rastreamento GPS para monitorar a localização dos veículos durante o período de aluguel, garantindo segurança e logística eficiente.
